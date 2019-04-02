@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Glide</string>
+    <string name="load_image">加载图片</string>
+</resources>
